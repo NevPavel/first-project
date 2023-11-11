@@ -1,3 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+body,
+h3,
+p {
+  margin: 0;
+  font-weight: normal;
+  font-size: 100%;
+}
+body {
+  min-width: 850px;
+  font-family: 'Open Sans', Arial, sans-serif;
+}
 .card {
   width: 360px;
   margin-bottom: 50px;
